@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<style>text{font-family:Arial,sans-serif;fill:#27364b}.title{font-size:25px;font-weight:700}.subtitle{font-size:14px;text-anchor:middle;fill:#5c6775}.label{font-size:13px}.small{font-size:11px;fill:#5c6775}.grid{stroke:#dfe5ec;stroke-width:1}.axis{stroke:#6b7788;stroke-width:1.4}</style>
+<text x="450.0" y="32" text-anchor="middle" class="title">Transaction amount spread</text>
+<text x="450.0" y="48" class="subtitle">Box shows the interquartile range; points beyond whiskers need review</text>
+<line x1="110.0" y1="265" x2="850.0" y2="265" stroke="#4472C4" stroke-width="3"/>
+<rect x="123.11392405063292" y="220" width="314.73417721518985" height="90" fill="#9db7dc" stroke="#4472C4" stroke-width="2"/>
+<line x1="151.21518987341773" y1="220" x2="151.21518987341773" y2="310" stroke="#27364b" stroke-width="3"/>
+<line x1="110.0" y1="240" x2="110.0" y2="290" stroke="#4472C4" stroke-width="2"/>
+<line x1="850.0" y1="240" x2="850.0" y2="290" stroke="#4472C4" stroke-width="2"/>
+<text x="123.11392405063292" y="345" text-anchor="middle" class="small">Q1 60</text>
+<text x="151.21518987341773" y="207" text-anchor="middle" class="small">Median 135</text>
+<text x="437.8481012658228" y="345" text-anchor="middle" class="small">Q3 900</text>
+</svg>
